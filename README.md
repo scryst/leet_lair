@@ -1,2 +1,2 @@
 # leet_lair
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+collection of leetcode questions im doing
